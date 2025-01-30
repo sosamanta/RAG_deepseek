@@ -3,3 +3,4 @@ streamlit
 pdfplumber
 PromptTemplate
 qdrant-client
+numpy
