@@ -1,0 +1,5 @@
+langchain
+streamlit
+pdfplumber
+PromptTemplate
+qdrant-client
